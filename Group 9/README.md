@@ -81,9 +81,16 @@
 Education</td>
         <td><a href="https://d1wqtxts1xzle7.cloudfront.net/81001227/68694_1-libre.pdf?1645203686=&response-content-disposition=inline%3B+filename%3DEnterprise_Resource_Planning_ERP_System.pdf&Expires=1729236929&Signature=f8auQF8AaBs5QP2XKmoOkQED2FehKB7HkHeYIChnjXvE-Ok~w4VU-01tmg8AbMmK5bL7Smg4wYTPwYPuO~NZFNSjItsafTNQvaXpNH~pUB2wFh7H5~IDgyk46WD3AgEizXm0mQbIxhqH870p7ePJ4kuRY7as1VXNOJ2QIWXp~lwHTZQ6MCmOIEYE10ofNFQ~2IIa5uFNg08obx9kKSBQxWiFHdeu5~UQywm2YVXk3Od26huTyj4o6Tu2eWojlep7BhVknx~2ONXHwZzsFBYKjkAu-pKb-cRYeQabRh7NFLyVGgu~2t~iPloMwNyZNn9wwPDvBqJkqHY9saSKyIadVA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Link</a></td>
     </tr>
+    <tr>
+        <td>8.</td>
+        <td>10/18/2024</td>
+        <td>NIK ZULAIKHAA</td>
+        <td>Literature Review</td>
+        <td>Using ERP Systems in Education </td>
+        <td><a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=2488&context=cais">Link</a></td>
     </tr>
     <tr>
-        <td>5.</td>
+        <td>9.</td>
         <td></td>
         <td></td>
         <td></td>
