@@ -7,7 +7,7 @@
 | No. | Member Name | Matric No |
 |-----|-------------|-----------|
 | 1.  | LOO JIA CHANG | A22EC0074 |
-| 2.  | NIK ZULAIKHAA BINTI ZURAIDI AFANDI | |
+| 2.  | NIK ZULAIKHAA BINTI ZURAIDI AFANDI |A22EC0232 |
 
 ### Google Docs: [Link to Google Docs]()
 
